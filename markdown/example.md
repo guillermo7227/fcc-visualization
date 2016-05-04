@@ -23,9 +23,7 @@ I am *emphasized* - I am _emphasized_
 I am **bold** - I am __bold__
 
 This is [an example](http://example.com/ "Optional Title")
-inline link.
-
-This is a <http://automaticlink.com/>
+inline link and a <http://automaticlink.com/>
 
 This is a normal paragraph.
 
